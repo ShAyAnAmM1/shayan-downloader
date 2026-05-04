@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [NoRecoilInstaller-v1.1](https://github.com/ShAyAnAmM1/shayan-downloader/tree/main/downloads/NoRecoilInstaller-v1.1)
+
+---
