@@ -79,9 +79,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [NoRecoilInstaller-v1.1](https://github.com/ShAyAnAmM1/shayan-downloader/tree/main/downloads/NoRecoilInstaller-v1.1)
 2 - [mhrv-rs-windows-amd64](https://github.com/ShAyAnAmM1/shayan-downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+3 - [zyrln-1.2.1](https://github.com/ShAyAnAmM1/shayan-downloader/tree/main/downloads/zyrln-1.2.1)
 
 ---
